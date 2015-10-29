@@ -38,4 +38,4 @@ You can personalize the main color, the language used and also the background pi
  
 Author:
 ---------
-  ***Galiway*** <galiwayit@gmail.com>
+  ***Galiway*** <https://github.com/galiway>
